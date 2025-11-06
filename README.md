@@ -53,6 +53,12 @@ Send a POST request to https://jsonplaceholder.typicode.com/posts and store the 
 ### **Arabic**
 
 ```html
+<script src="LangFetch.js"></script>
+<prompt style="display:none;">
+في المتغير result2 من النوع string جيب https://example.com/api?q=query
+</prompt>
+
+
 <prompt style="display:none;">
 ابعت البيانات لـ https://jsonplaceholder.typicode.com/posts وخزن الناتج في result_obj من النوع object بيانات: {"name":"عمرو"}
 </prompt>
