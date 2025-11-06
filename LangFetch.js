@@ -1,5 +1,5 @@
 /*!
- * LangFetch.js Library (Patched)
+ * LangFetch.js Library
  * Natural Language HTTP/JSON/FormData Requests
  * Author: Amr Twig
  * Company: Rdivxe LLC
