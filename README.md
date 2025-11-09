@@ -65,9 +65,6 @@ Send a POST request to https://jsonplaceholder.typicode.com/posts and store the 
 </prompt>
 
 <script>
-  // Run all prompts
-  LangFetch.runAllPrompts();
-
   // Repeat request 3 times
   proRepeat("في المتغير statusVar من النوع string جيب https://jsonplaceholder.typicode.com/todos/1 وخزن النتيجة", 3);
 </script>
