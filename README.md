@@ -35,9 +35,6 @@ A developer-friendly JavaScript library for sending **HTTP requests** using high
 Send a POST request to https://jsonplaceholder.typicode.com/posts and store the result in variable user_response of type object params: {"user":"John"}
 </prompt>
 
-Send a POST request to https://jsonplaceholder.typicode.com/posts and store the result in variable user_response of type object params: {"user":"John"}
-</prompt>
-
 <script>
   // Flexible POST request
   pro("Send the body data to https://jsonplaceholder.typicode.com/posts and store the result in responseData of type object body: {\"key\":\"value\"}");
